@@ -1,0 +1,2 @@
+# gamesparadise.github.io
+blog
